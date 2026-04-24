@@ -177,38 +177,37 @@ It enables better decision-making and helps reduce food wastage.
 > Add screenshots here:
 
 ### Dashboard Overview  
-![Overview Home Page]([/Dashboard-ScreeenShots/1.Overview-Homepage.png])
+![Overview Home Page](Dashboard-Screenshots/1.Overview-Homepage.png)
 
+### Map  
+![Map Page](Dashboard-Screenshots/2.Map.png)
 
-### Map 
-![Map Page]([/Dashboard-ScreeenShots/2.Map.png])
+### SQL Insights  
+![SQL Insights Page](Dashboard-Screenshots/3.SQLInsights.png)
 
-### SQL Insights
-![SQL Insights Page]([/Dashboard-ScreeenShots/3.SQLInsights.png])
+### Filter City  
+![Filter City Page](Dashboard-Screenshots/4.Filter-City.jpg)
 
-### Filter City
-![Filter City Page]([/Dashboard-ScreeenShots/4.Filter-City.jpg])
+### Filter Food Type  
+![Filter Food Type Page](Dashboard-Screenshots/5.Filter-FoodType.jpg)
 
-### Filter Food Type
-![Filter Food Type Page]([/Dashboard-ScreeenShots/5.Filter-FoodType.jpg])
+### Advanced SQL Insights  
+![Advanced SQL Insights Page](Dashboard-Screenshots/6.AdvancedSQLInsights.jpg)
 
-### Advanced SQL Insights
-![Advanced SQL Insights Page]([/Dashboard-ScreeenShots/6.AdvancedSQLInsights.jpg])
+### KPI Metrics  
+![KPI Metrics Page](Dashboard-Screenshots/7.KPIMetrics.jpg)
 
-### KPI Matrics
-![KPI Matrics Page]([/Dashboard-ScreeenShots/7.KPIMatrics.jpg])
+### Trend Analysis  
+![Trend Analysis Page](Dashboard-Screenshots/8.TrendAnalysis.jpg)
 
-### Trend Analysis
-![Trend Analysis Page]([/Dashboard-ScreeenShots/8.TrendAnalysis.jpg])
+### Food Distribution Insights  
+![Food Distribution Page](Dashboard-Screenshots/9.FoodDistributionInsights.jpg)
 
-### Food Distribution Insights
-![Food Distribution Insights Page]([/Dashboard-ScreeenShots/9.FoodDistributionInsights.jpg])
+### Claims Status Overview  
+![Claims Status Page](Dashboard-Screenshots/10.ClaimsStatusOverviews.jpg)
 
-### Claims Status Overviews
-![Claims Status Overviews Page]([/Dashboard-ScreeenShots/10.ClaimsStatusOverviews.jpg])
-
-### Meal Type Analysis
-![Meal Type Analysis Page]([/Dashboard-ScreeenShots/11.MealTypeAnalysis.jpg])
+### Meal Type Analysis  
+![Meal Type Page](Dashboard-Screenshots/11.MealTypeAnalysis.jpg)
 
 ---
 
