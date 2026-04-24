@@ -176,12 +176,38 @@ It enables better decision-making and helps reduce food wastage.
 
 > Add screenshots here:
 
-- Dashboard Overview  
-- KPI Section  
-- Trend Analysis  
-- Distribution Charts  
-- Map Visualization  
+### Dashboard Overview  
+![Overview Home Page]([1.Overview-Homepage.png])
 
+### Map 
+![Map Page]([2.Map.png])
+
+### SQL Insights
+![SQL Insights Page]([3.SQLInsights.png])
+
+### Filter City
+![Filter City Page]([4.Filter-City.jpg])
+
+### Filter Food Type
+![Filter Food Type Page]([5.Filter-FoodType.jpg])
+
+### Advanced SQL Insights
+![Advanced SQL Insights Page]([6.AdvancedSQLInsights.jpg])
+
+### KPI Matrics
+![KPI Matrics Page]([7.KPIMatrics.jpg])
+
+### Trend Analysis
+![Trend Analysis Page]([8.TrendAnalysis.jpg])
+
+### Food Distribution Insights
+![Food Distribution Insights Page]([9.FoodDistributionInsights.jpg])
+
+### Claims Status Overviews
+![Claims Status Overviews Page]([10.ClaimsStatusOverviews.jpg])
+
+### Meal Type Analysis
+![Meal Type Analysis Page]([11.MealTypeAnalysis.jpg])
 ---
 
 ## ▶️ How to Run the Project
