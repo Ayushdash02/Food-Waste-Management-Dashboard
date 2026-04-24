@@ -177,37 +177,39 @@ It enables better decision-making and helps reduce food wastage.
 > Add screenshots here:
 
 ### Dashboard Overview  
-![Overview Home Page]([dashboard-screenshots/1.Overview-Homepage.png])
+![Overview Home Page]([/Dashboard-ScreeenShots/1.Overview-Homepage.png])
+
 
 ### Map 
-![Map Page]([2.Map.png])
+![Map Page]([/Dashboard-ScreeenShots/2.Map.png])
 
 ### SQL Insights
-![SQL Insights Page]([3.SQLInsights.png])
+![SQL Insights Page]([/Dashboard-ScreeenShots/3.SQLInsights.png])
 
 ### Filter City
-![Filter City Page]([4.Filter-City.jpg])
+![Filter City Page]([/Dashboard-ScreeenShots/4.Filter-City.jpg])
 
 ### Filter Food Type
-![Filter Food Type Page]([5.Filter-FoodType.jpg])
+![Filter Food Type Page]([/Dashboard-ScreeenShots/5.Filter-FoodType.jpg])
 
 ### Advanced SQL Insights
-![Advanced SQL Insights Page]([6.AdvancedSQLInsights.jpg])
+![Advanced SQL Insights Page]([/Dashboard-ScreeenShots/6.AdvancedSQLInsights.jpg])
 
 ### KPI Matrics
-![KPI Matrics Page]([7.KPIMatrics.jpg])
+![KPI Matrics Page]([/Dashboard-ScreeenShots/7.KPIMatrics.jpg])
 
 ### Trend Analysis
-![Trend Analysis Page]([8.TrendAnalysis.jpg])
+![Trend Analysis Page]([/Dashboard-ScreeenShots/8.TrendAnalysis.jpg])
 
 ### Food Distribution Insights
-![Food Distribution Insights Page]([9.FoodDistributionInsights.jpg])
+![Food Distribution Insights Page]([/Dashboard-ScreeenShots/9.FoodDistributionInsights.jpg])
 
 ### Claims Status Overviews
-![Claims Status Overviews Page]([10.ClaimsStatusOverviews.jpg])
+![Claims Status Overviews Page]([/Dashboard-ScreeenShots/10.ClaimsStatusOverviews.jpg])
 
 ### Meal Type Analysis
-![Meal Type Analysis Page]([11.MealTypeAnalysis.jpg])
+![Meal Type Analysis Page]([/Dashboard-ScreeenShots/11.MealTypeAnalysis.jpg])
+
 ---
 
 ## ▶️ How to Run the Project
