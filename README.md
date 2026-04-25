@@ -177,7 +177,7 @@ It enables better decision-making and helps reduce food wastage.
 > Add screenshots here:
 
 ### Dashboard Overview  
-![Overview Home Page](Dashboard%20-%20ScreeenShots/1.Overview-Homepage.png)
+![Overview Home Page](Dashboard%20-%20ScreeenShots/1.Overview-Homepage.jpg)
 
 ### Map  
 ![Map Page](Dashboard%20-%20ScreeenShots/2.Map.png)
